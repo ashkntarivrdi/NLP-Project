@@ -71,10 +71,7 @@ The model's performance will be evaluated based on its accuracy in classifying m
 
 Feel free to submit pull requests or open issues if you find any bugs or have suggestions for improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-This project is part of my ongoing efforts to explore and contribute to the field of NLP and machine learning. Thank you for your interest!
+This was a group project with three members, completed as part of the Artificial Intelligence course at Sharif University of Technology. This project is part of our ongoing efforts to explore and contribute to the field of NLP and machine learning. Thank you for your interest!
