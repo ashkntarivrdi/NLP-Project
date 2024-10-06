@@ -50,13 +50,9 @@ We employ various methodologies to achieve this, primarily focusing on fine-tuni
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/persian-movies-genre-classification.git
+    git clone https://github.com/ashkntarivrdi/NLP-Project.git
     ```
-2. **Install Dependencies**:
-    ```sh
-    pip install -r requirements.txt
-    ```
-3. **Run the Jupyter Notebook**:
+2. **Run the Jupyter Notebook**:
     Open the Jupyter Notebook and follow the instructions to preprocess data, visualize it, and train the model.
 
 ## Dataset
